@@ -4,7 +4,7 @@ description: En samling videor och självstudiekurser om Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: 3c615f525f1d589af3220bdd8f2cd40894d8f829
+source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 11%
@@ -36,24 +36,24 @@ Adobe Mix Modeler hjälper organisationer att mäta, optimera och planera markna
     </a>
     <div>
       <a href="intro/use-cases.md">
-    <strong>Användningsexempel</strong>
+    <strong>Användningsexempel </strong>
     </a>
     </div>
     <p>
-    <em>Lär dig de viktigaste användningsområdena för Adobe Mix Modeler</em>
+    <em>Lär dig grunderna i Adobe Mix Modeler</em>
     <p>
   </td>
   <td>
-    <a href="intro/user-workflow.md">
-      <img alt="miniatyrbild för självstudiekursen User workflow" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    <a href="intro/demo.md">
+      <img alt="miniatyrbild för självstudiekursen&quot;End-to-end demo&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
-      <a href="intro/user-workflow.md">
-    <strong>Arbetsflöde</strong>
+      <a href="intro/demo.md">
+    <strong> Komplett demo</strong>
     </a>
     </div>
     <p>
-    <em>Lär dig det grundläggande arbetsflödet i Adobe Mix Modeler</em>
+    <em>Se en demo av Adobe Mix Modeler från början till slut</em>
     <p>
   </td>
   <td>
@@ -62,11 +62,11 @@ Adobe Mix Modeler hjälper organisationer att mäta, optimera och planera markna
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
-    <strong>Demo av användargränssnittet</strong>
+    <strong> Demo av användargränssnittet </strong>
     </a>
     </div>
     <p>
-    <em>Lär dig huvudkomponenterna i användargränssnittet i Adobe Mix Modeler</em>
+    <em>Lär dig grunderna i användargränssnittet i Adobe Mix Modeler</em>
     <p>
   </td>
 </tr>
