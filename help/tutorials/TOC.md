@@ -5,10 +5,10 @@ user-guide-description: En samling videor och självstudiekurser om Adobe Mix Mo
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: cdf2d8be116afcc9d4d565620ee2a909884ff7b3
+source-git-commit: db311146e2ee3b75d1b19be909f0fda95213ba36
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 62%
+source-wordcount: '37'
+ht-degree: 54%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 62%
 + [Självstudiekurser om Mix Modeler](/help/tutorials/overview.md)
 + Introduktion till Mix Modeler {#intro}
    + [Översikt](/help/tutorials/intro/understanding-mix-modeler.md)
-   + [Användningsfall](/help/tutorials/intro/use-cases.md)
-   + [Användararbetsflöde](/help/tutorials/intro/user-workflow.md)
-   + [Demo av användargränssnitt](/help/tutorials/intro/user-interface-tour.md)
+   + [Användningsexempel](/help/tutorials/intro/use-cases.md)
+   + [Arbetsflöde](/help/tutorials/intro/user-workflow.md)
+   + [Demo från början till slut](/help/tutorials/intro/demo.md)
+   + [Demo av användargränssnittet](/help/tutorials/intro/user-interface-tour.md)
