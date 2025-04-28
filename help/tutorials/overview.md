@@ -4,7 +4,7 @@ description: En samling videor och självstudiekurser om Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
+source-git-commit: fcae8d9fd4609b2742ade0a589451a037ca69b71
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 11%
@@ -56,7 +56,6 @@ Adobe Mix Modeler hjälper organisationer att mäta, optimera och planera markna
     <em>Lär dig grunderna i användargränssnittet i Adobe Mix Modeler</em>
     <p>
   </td>
-</tr>
   <td>
     <a href="intro/user-workflow.md">
       <img alt="miniatyrbild för självstudiekursen User workflow" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
@@ -70,6 +69,7 @@ Adobe Mix Modeler hjälper organisationer att mäta, optimera och planera markna
     <em>Läs mer om användararbetsflödet i Adobe Mix Modeler</em>
     <p>
   </td>
+</tr>
 </table>
 
 </div>
