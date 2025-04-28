@@ -1,6 +1,6 @@
 ---
-title: Mix Modeler-demo från början till slut
-description: Lär dig Adobe Mix Modeler hela arbetsflödet.
+title: Mix Modeler totallösning
+description: Lär dig Adobe Mix Modeler kompletta arbetsflöde.
 role: Developer, User
 level: Beginner
 doc-type: Value Video
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Mix Modeler-demo från början till slut
+# Mix Modeler totallösning
 
 Se en komplett demo av Adobe Mix Modeler. Mer information finns i [Mix Modeler-dokumentationen](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview).
 
