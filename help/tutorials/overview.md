@@ -32,7 +32,7 @@ Adobe Mix Modeler hjälper organisationer att mäta, optimera och planera markna
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="miniatyrbild för självstudiekursen&quot;End-to-end demo&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="miniatyrbild för självstudiekursen&quot;End-to-end demo&quot;" src="https://video.tv.adobe.com/v/3440798?format=jpeg&captions=swe" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -45,7 +45,7 @@ Adobe Mix Modeler hjälper organisationer att mäta, optimera och planera markna
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="miniatyrbild för videon &apos;User interface tour&apos;" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="miniatyrbild för videon &apos;User interface tour&apos;" src="https://video.tv.adobe.com/v/3452386?format=jpeg&captions=swe" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -58,7 +58,7 @@ Adobe Mix Modeler hjälper organisationer att mäta, optimera och planera markna
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="miniatyrbild för självstudiekursen User workflow" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="miniatyrbild för självstudiekursen User workflow" src="https://video.tv.adobe.com/v/3440207?format=jpeg&captions=swe" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
