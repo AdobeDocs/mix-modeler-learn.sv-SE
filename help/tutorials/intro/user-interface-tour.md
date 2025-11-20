@@ -19,4 +19,4 @@ ht-degree: 28%
 
 Se huvudfunktionerna i Mix Modeler i användargränssnittet. Mer information finns i [Adobe Mix Modeler-handboken](https://experienceleague.adobe.com/sv/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452386?captions=swe&learn=on&enablevpops)
