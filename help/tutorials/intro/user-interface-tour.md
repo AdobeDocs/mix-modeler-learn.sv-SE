@@ -17,6 +17,6 @@ ht-degree: 28%
 
 # Demo av användargränssnitt
 
-Se huvudfunktionerna i Mix Modeler i användargränssnittet. Mer information finns i handboken [Adobe Mix Modeler](https://experienceleague.adobe.com/sv/docs/mix-modeler/using/get-started/workflow).
+Se huvudfunktionerna i Mix Modeler i användargränssnittet. Mer information finns i [Adobe Mix Modeler-handboken](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3452386?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)

@@ -17,6 +17,6 @@ ht-degree: 23%
 
 # Användararbetsflöde
 
-Lär dig arbetsflödet i Mix Modeler. Mer information finns i dokumentationen för [Mix Modeler-arbetsflödet](https://experienceleague.adobe.com/sv/docs/mix-modeler/using/get-started/workflow).
+Lär dig arbetsflödet i Mix Modeler. Mer information finns i dokumentationen för [Mix Modeler-arbetsflöde](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3440207?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
