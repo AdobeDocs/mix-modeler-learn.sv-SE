@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Modellkörningsidentifiering
 
-Med funktionen för identifiering av modellavdrift i Mix Modeler upptäcks automatiskt avdrift på modeller och du får möjlighet att omedelbart vidta åtgärder eller utforska avdriften mer i detalj. Mer information finns i [Modelldrift](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} i Mix Modeler-dokumentationen.
+Med funktionen för identifiering av modellavdrift i Mix Modeler upptäcks automatiskt avdrift på modeller och du får möjlighet att omedelbart vidta åtgärder eller utforska avdriften mer i detalj. Mer information finns i [Modelldrift](https://experienceleague.adobe.com/sv/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} i Mix Modeler-dokumentationen.
 
 >[!SLIDE](model-drift-detection)
 
