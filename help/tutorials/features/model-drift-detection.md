@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Modellkörningsidentifiering
 
-Med Mix Modeler funktion för identifiering av modellavdrift identifieras automatiskt förändringar i modellprestanda och användarna meddelas. De kan vidta omedelbara åtgärder för att återställa modellen till optimala prestanda. Mer information finns i [Modelldrift](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} i Mix Modeler-dokumentationen.
+Med Mix Modeler funktion för identifiering av modellavdrift identifieras automatiskt förändringar i modellprestanda och användarna meddelas. De kan vidta omedelbara åtgärder för att återställa modellen till optimala prestanda. Mer information finns i [Modelldrift](https://experienceleague.adobe.com/sv/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} i Mix Modeler-dokumentationen.
 
 >[!SLIDE](model-drift-detection)
 
